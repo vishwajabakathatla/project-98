@@ -1,6 +1,4 @@
 body{
-    background-image:url(background.jpg) ;
-    height: 100px;
-   background-size: cover;
-   background-position: center;
+    background-image: url(param.jpg);
+   
 }
